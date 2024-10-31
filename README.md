@@ -1,2 +1,2 @@
 # rsschool-cv
-# https://vershika.github.io/rsschool-cv/
+# https://VershikA.github.io/rsschool-cv
