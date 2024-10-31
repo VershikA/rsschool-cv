@@ -1,43 +1,43 @@
-# Вершиловский Алексей
-![Мое фото](https://github.com/VershikA/rsschool-cv/blob/gh-pages/186287840.jpg)
-* ## __Контакты__
-  * __Адрес:__ пр-т. Рокосовского, Минск, Беларусь.
-  * __Телефон:__ +375(25) 961-58-10.
-  * __Электронная почта:__ vershikleha@gmail.com
+# Alexey Vershilovskiy
+![My photo ](https://github.com/VershikA/rsschool-cv/blob/gh-pages/186287840.jpg)
+* ## __Contacts__
+  * __Address:__  Rokossovskogo Ave, Minsk, Belarus. 
+  * __Phone:__ +375(25) 961-58-10.
+  * __Email:__ vershikleha@gmail.com
   * __GitHub:__ [VershikA](https://github.com/VershikA).
-  * __Телеграм:__ [LEX](https://t.me/Alexis0892).
+  * __Telegram:__ [LEX](https://t.me/Alexis0892).
  
  
-* ##  __Языки__
-   * ### Белару́ская мо́ва
-   * ### Русский
-   * ### Украинский
+* ##  __Languages__
+   * ### Belarusian 
+   * ### Russian 
+   * ### Ukrainian 
 
 
-*  ## __Опыт работы:__
+*  ## __Work Experience:__
 
-    * __*У меня имеется небольшой опыт в области веб-разработки. В ходе своей работы я участвовал в команде, в которой занимался несколькими проектами. Основным направлением моей деятельности была верстка, и я в основном работал с макетами, созданными в Figma. Этот опыт позволил мне освоить основные принципы верстки и научиться эффективно взаимодействовать с командой для достижения общих целей. Я стремлюсь развивать свои навыки и углублять знания в веб-разработке.*__
+    * __*I have some experience in web development. During my work, I participated in a team where I worked on several projects. My main focus was on layout design, and I primarily worked with mockups created in Figma. This experience allowed me to learn the basic principles of layout and to effectively collaborate with the team to achieve common goals. I strive to develop my skills and deepen my knowledge in web development.*__
   
 
-* ##  Образование:
+* ##  Education:
 
-    * ### «Витебский государственный колледж электротехники»
-	* ### Курсы программирования «IT SHATLE (Айти Шатл)»
+    * ### "Vitebsk State College of Electronics" 
+	* ### Programming courses at "IT SHATLE"
 
-  ## О себе:
+  ## About Me: 
 
-	__*В данный момент я занимаюсь несколькими проектами с целью стать профессиональным веб-разработчиком. Мне очень нравится верстка, и я готов уделять много времени тому, что мне действительно интересно. Мои главные сильные стороны — это способность к решению проблем и быстрое усвоение новой информации. Я стремлюсь получить знания и навыки, которые позволят мне устроиться на работу в компании.*__
+	__*Currently, I am working on several projects with the aim of becoming a professional web developer. I really enjoy layout design and am willing to dedicate a lot of time to what truly interests me. My main strengths are problem-solving skills and the ability to quickly absorb new information. I am eager to gain knowledge and skills that will allow me to secure a job in a company.*__
 
-* ##  Навыки
+* ##  Skills 
    *  HTML
-   *  CSS (фреймворк Bootstrap, препроцессор SCSS, методология BEM).
-   *  Контроль версий: Git (удалённый сервис GitHub).
+   *  CSS (Bootstrap, SCSS, BEM).
+   *  Git (GitHub).
    *  Gulp, Webpack.
    * ОС Windows.
-   * Figma(для веб-разработки)
-   * Редакторы: VSCode.
+   * Figma.
+   * VSCode.
 
-  ##  Пример кода
+  ##  Example code
 
 	```javascript
 	function isEven(number) { return number % 2 === 0; 
