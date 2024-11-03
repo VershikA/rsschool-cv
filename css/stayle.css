@@ -1,0 +1,196 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.wrapper {
+	min-height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+}
+.page {
+	content: '';
+	background-image: url('../img/bg.jpg');
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 100%;
+	
+}
+
+.cv__container {
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 0 15px;
+}
+
+.cv__inner {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	display: flex;
+	flex-direction: column;
+	gap: 50px;
+}
+
+.cv__title {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+}
+
+.cv__title-item {
+	font-weight: 400;
+		font-size: 40px;
+		line-height: 80%;
+		color: #fff;
+		text-align: center;
+		@media (max-width:767px) {
+			font-size: 25px;
+		}
+}
+
+.cv__foto {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 0 auto;
+	border-radius: 50%;
+	overflow: hidden;
+	max-width: 500px;
+	
+}
+
+.cv__foto img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+.cv__contacts {
+	font-weight: 500;
+	font-size: 22px;
+	color: #fff;
+	max-width: 500px;
+	
+	}
+
+
+.cv__contacts-item {
+	font-weight: 400;
+		font-size: 18px;
+		line-height: 140%;
+		color: #fff;
+		margin-left: 30px;
+		
+}
+
+.cv__contacts-text {
+	font-weight: 400;
+		font-size: 18px;
+		line-height: 140%;
+		color: #dbd4d4;
+		transition: all 0.3s ease;
+		
+}
+.cv__contacts-text:hover {
+	color: #040404;
+	transition: all 0.3s ease;
+
+}
+
+.cv__languages {
+	max-width: 900px;
+	}
+	
+
+
+
+.cv__languages-list {
+	font-weight: 500;
+		font-size: 22px;
+		color: #fff;
+}
+
+.cv__languages-item {font-weight: 400;
+	font-size: 18px;
+	line-height: 140%;
+	color: #fff;
+	margin-left: 30px;}
+
+.cv__experience {
+	max-width: 900px;
+}
+
+.cv__experience-title {
+	font-weight: 500;
+		font-size: 22px;
+		color: #fff;
+		margin-bottom: 20px;
+}
+
+.cv__experience-text 
+{font-size: 18px;
+	line-height: 140%;
+	color: #fff;
+	margin-left: 30px;}
+
+.cv__education {
+	max-width: 900px;
+}
+
+.cv__education-title {font-weight: 500;
+	font-size: 22px;
+	color: #fff;
+	margin-bottom: 20px;}
+
+.cv__education-text {font-size: 18px;
+	line-height: 140%;
+	color: #fff;
+	margin-left: 30px;}
+
+.cv__about {
+	max-width: 900px;
+}
+
+.cv__about-title {
+		font-weight: 500;
+		font-size: 22px;
+		color: #fff;
+		margin-bottom: 20px;}
+
+.cv__about-text {font-size: 18px;
+	line-height: 140%;
+	color: #fff;
+	margin-left: 30px;}
+
+.cv__skills {
+	max-width: 900px;
+	
+}
+
+.cv__skills-title {font-weight: 500;
+	font-size: 22px;
+	color: #fff;
+	margin-bottom: 20px;}
+
+.cv__skills-text {font-size: 18px;
+	line-height: 140%;
+	color: #fff;
+	margin-left: 30px;}
+
+.cv__code {
+	max-width: 900px;
+	
+}
+
+.cv__code-title {font-weight: 500;
+	font-size: 22px;
+	color: #fff;
+	margin-bottom: 20px;}
+
+.cv__code-text {font-size: 18px;
+	line-height: 140%;
+	color: #fff;
+	margin-left: 30px;}
