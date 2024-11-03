@@ -1,1 +1,1 @@
-[CV](https://vershika.github.io/rsschool-cv/) 
+# [rsschool-cv](https://vershika.github.io/rsschool-cv/cv)
